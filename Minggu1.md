@@ -67,5 +67,5 @@ Setelah instalasi Ubuntu Server, lakukan tasks berikut:
 2. ![Langkah 2](Image/Langkah2_1.4.png "Langkah 2")
 3. ![Langkah 3](Image/Langkah3_1.4.png "Langkah 3")
 4. ![Langkah 4](Image/Langkah4_1.4.png "Langkah 4")
-5. ![Langkah 5](Image/Langkah4_1.4.png "Langkah 5")
-6. ![Langkah 6](Image/Langkah4_1.4.png "Langkah 6")
+5. ![Langkah 5](Image/Langkah5_1.4.png "Langkah 5")
+6. ![Langkah 6](Image/Langkah6_1.4.png "Langkah 6")
